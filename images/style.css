@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:wght@300&display=swap');
+@import "reset-style.css";
+/* components */
+@import "status-bar.css";
+@import "variables.css";
+/* screens */
+@import "welcome.css";
+@import "nav-bar.css";
+@import "screen-header.css";
+@import "friends.css";
+@import "user-component.css";
+
+body {
+    color:color: #2e363e;
+    font-family: 'Georama', sans-serif;
+}
+
